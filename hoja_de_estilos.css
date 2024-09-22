@@ -1,0 +1,29 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+}
+header{
+    background-color: aqua;
+}
+nav{
+    background-color: red;
+}
+main{
+    background-color: aquamarine;
+    font-size: medium;
+}
+footer{
+    background-color: azure;
+}
+li{
+    display: flex;
+    width: fit-content;
+}
+h1{
+        text-align: center;
+        font-family: 'Times New Roman', Times, serif;
+        color: coral;
+}
+p{
+    line-height: 20px;
+}
